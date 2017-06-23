@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Print SDK demo</string>
+    <string name="stander_printer">Stander printer</string>
+    <string name="escpos_printer">EscPos printer</string>
+
+</resources>

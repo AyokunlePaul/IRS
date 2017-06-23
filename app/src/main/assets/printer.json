@@ -1,0 +1,127 @@
+{
+    "_readme": [
+        "This file provides printer list of available for lqk",
+        "Author : yiming",
+        "Time: 2015-6-24"
+    ],
+    "version": "1.5",
+    "printers": [
+        {
+        		"type": "printer",
+            "vendor_id": "1046",
+            "product_id": "20497",
+            "name": "EscPos打印机",
+            "en_name": "EscPos Printer",
+            "protocol": "escpos",
+            "size": "58"
+        },
+        {
+        		"type": "printer",
+            "vendor_id": "1305",
+            "product_id": "8211",
+            "name": "底座打印机",
+            "en_name": "Stander Printer",
+            "protocol": "escpos",    
+            "verify_required": "true",
+            "size": "58"
+        },
+        {
+        		"type": "printer",
+            "vendor_id": "1046",
+            "product_id": "20497",
+            "name": "芯烨 XP-58II H",
+            "en_name": "XPrinter XP-58II H",
+            "protocol": "escpos",
+            "size": "58"  
+        },
+        {
+        		"type": "printer",
+            "vendor_id": "1046",
+            "product_id": "43707",
+            "name": "资江 NT58H",
+            "en_name": "ZJiang NT58H",
+            "protocol": "escpos",
+            "size": "58" 
+        },
+        {
+        		"type": "printer",
+            "vendor_id": "1155",
+            "product_id": "22339",
+            "name": "芯烨 XP-Q200II",
+            "en_name": "XPrinter XP-Q200II",
+            "protocol": "escpos",
+            "size": "58"   
+        },
+        {
+        		"type": "printer",
+            "vendor_id": "26728",
+            "product_id": "1536",
+            "name": "佳博 GP-5860III",
+            "en_name": "GPrinter GP-5860III",
+            "protocol": "escpos",
+            "size": "58"  
+        },
+        {
+        		"type": "printer",
+            "vendor_id": "26728",
+            "product_id": "1536",
+            "name": "佳博 GP-58L",
+            "en_name": "GPrinter GP-58L",
+            "protocol": "escpos",
+            "size": "58"  
+        }, 
+        {
+        		"type": "printer",
+            "vendor_id": "1137",
+            "product_id": "85",
+            "name": "佳博 GP-3120TU",
+            "en_name": "GPrinter GP-3120TU",
+            "protocol": "tag",
+            "size": "40,30"
+        },
+        {
+        		"type": "printer",
+            "vendor_id": "26728",
+            "product_id": "1280",
+            "name": "佳博GP-2120TL",
+            "en_name": "GPrinter GP-2120TL",
+            "protocol": "tag",
+            "size": "40,30"   
+        },             
+        {
+        		"type": "printer",
+            "vendor_id": "1137",
+            "product_id": "85",
+            "name": "佳博 GP-3120TL",
+            "en_name": "GPrinter GP-3120TL",
+            "protocol": "tag",
+            "size": "40,30"   
+        },
+        {
+            "type": "printer",
+            "vendor_id": "1305",
+            "product_id": "8213",
+            "name": "底座打印机B",
+            "en_name": "Stander Printer B",
+            "protocol": "escpos",    
+            "verify_required": "true",
+            "size": "58"
+        },
+        {
+        		"type": "card_reader",
+            "vendor_id": "4292",
+            "product_id": "33485",
+            "name": "R6-U040读卡器",
+            "en_name": "R6-U040 Card Reader",
+            "protocol": "ic"    
+        },
+        {
+        		"type": "card_reader",
+            "vendor_id": "5050",
+            "product_id": "24",
+            "name": "磁条读卡器",
+            "en_name": "Magnet Card Reader",
+            "protocol": "mag"    
+        }
+    ]    
+}
